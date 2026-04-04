@@ -18,7 +18,7 @@ public class Main {
             System.out.println("\nDigite 1, para ver o saldo.");
             System.out.println("Digite 2, para fazer um depósito.");
             System.out.println("Digite 3, para sacar um valor.");
-            System.out.println("Digite 4, para sair.");
+            System.out.println("Digite 0, para sair.");
             System.out.print("\nOpção: ");
             opcao = scan.nextInt();
 
